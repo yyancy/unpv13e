@@ -1,0 +1,402 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "sigchldwait.o",
+            "sigchldwait.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "sigchldwait.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "str_cli08.o",
+            "str_cli08.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "str_cli08.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli09.o",
+            "tcpcli09.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli09.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "sigchldwaitpid.o",
+            "sigchldwaitpid.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "sigchldwaitpid.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpservpoll01.o",
+            "tcpservpoll01.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpservpoll01.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli10.o",
+            "tcpcli10.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli10.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli01.o",
+            "tcpcli01.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli01.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "str_echo08.o",
+            "str_echo08.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "str_echo08.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli11.o",
+            "tcpcli11.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli11.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "str_echo09.o",
+            "str_echo09.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "str_echo09.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli07.o",
+            "tcpcli07.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli07.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpserv02.o",
+            "tcpserv02.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpserv02.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpserv04.o",
+            "tcpserv04.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpserv04.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli04.o",
+            "tcpcli04.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli04.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "str_cli11.o",
+            "str_cli11.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "str_cli11.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpservselect01.o",
+            "tcpservselect01.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpservselect01.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpserv01.o",
+            "tcpserv01.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpserv01.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpserv03.o",
+            "tcpserv03.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpserv03.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "str_cli09.o",
+            "str_cli09.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "str_cli09.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpserv08.o",
+            "tcpserv08.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpserv08.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli06.o",
+            "tcpcli06.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli06.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tsigpipe.o",
+            "tsigpipe.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tsigpipe.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpserv09.o",
+            "tcpserv09.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpserv09.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli05.o",
+            "tcpcli05.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli05.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "tcpcli08.o",
+            "tcpcli08.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/tcpcliserv",
+        "file": "tcpcli08.c"
+    }
+]

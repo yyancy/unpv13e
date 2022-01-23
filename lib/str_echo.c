@@ -5,10 +5,11 @@ str_echo(int sockfd)
 {
 	ssize_t		n;
 	char		buf[MAXLINE];
-
+int counter = 0;
 again:
-	while ( (n = read(sockfd, buf, MAXLINE)) > 0)
+	while ( (n = read(sockfd, buf, MAXLINE)) > 0){
 		Writen(sockfd, buf, n);
+  }
 
 	if (n < 0 && errno == EINTR)
 		goto again;

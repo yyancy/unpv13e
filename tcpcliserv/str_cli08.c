@@ -4,9 +4,9 @@ void
 str_cli(FILE *fp, int sockfd)
 {
 	char	sendline[MAXLINE], recvline[MAXLINE];
-
+  int counter = 0;
 	while (Fgets(sendline, MAXLINE, fp) != NULL) {
-
+    printf("counter = %d\n", counter);
 		Writen(sockfd, sendline, strlen(sendline));
 
 		if (Readline(sockfd, recvline, MAXLINE) == 0)
