@@ -1,0 +1,178 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpsrv.o",
+            "daytimetcpsrv.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpsrv.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpcli.o",
+            "daytimetcpcli.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpcli.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpsrv1.o",
+            "daytimetcpsrv1.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpsrv1.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpsrvv6.o",
+            "daytimetcpsrvv6.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpsrvv6.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpcliv6.o",
+            "daytimetcpcliv6.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpcliv6.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpsrv3.o",
+            "daytimetcpsrv3.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpsrv3.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpcli3.o",
+            "daytimetcpcli3.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpcli3.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpcli1.o",
+            "daytimetcpcli1.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpcli1.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "byteorder.o",
+            "byteorder.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "byteorder.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpcli2.o",
+            "daytimetcpcli2.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpcli2.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-I../lib",
+            "-g",
+            "-O2",
+            "-D_REENTRANT",
+            "-Wall",
+            "-o",
+            "daytimetcpsrv2.o",
+            "daytimetcpsrv2.c"
+        ],
+        "directory": "/home/yancy/Documents/C-workspace/unpv13e/intro",
+        "file": "daytimetcpsrv2.c"
+    }
+]
